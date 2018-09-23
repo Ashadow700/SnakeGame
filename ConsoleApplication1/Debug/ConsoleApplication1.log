@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+  Grid.cpp
+d:\c++\testapp\consoleapplication1\consoleapplication1\grid.cpp(99): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\c++\testapp\consoleapplication1\consoleapplication1\grid.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SnakeGame.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\c++\testApp\ConsoleApplication1\Debug\ConsoleApplication1.exe
